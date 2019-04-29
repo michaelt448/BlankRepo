@@ -6,4 +6,4 @@
 
 ## Summary
 
-This repository contains all the notes taken by Michael for the Lighthouse Labs Web Develoment Bootcamp.
+This repository contains all the notes taken by [Michael](https://github.com/michaelt448) for the [Lighthouse Labs](https://lighthouselabs.ca/) Web Develoment Bootcamp.
