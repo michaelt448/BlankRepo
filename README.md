@@ -2,7 +2,8 @@
 
 #This is an H1 header (largest)
 
-##### This is an H6 header(smallest)
+#### * Week 1
+      * Day 1
 
 ## Summary
 
